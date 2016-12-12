@@ -46,6 +46,7 @@ What profession was on the show most overall?
 actor
 
 How many people did Jon Stewart have on with the first name of Bill?
+16
 
 What dates did Patrick Stewart appear on the show?
 
@@ -57,3 +58,16 @@ Which year had the most guests?
 2000
 
 What was the most popular "Group" for each year Jon Stewart hosted?
+2015
+Acting
+2014
+Government
+2013
+NA
+2012
+Clergy
+2011
+media
+2010
+Consultant
+

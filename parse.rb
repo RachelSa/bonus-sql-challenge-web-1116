@@ -29,6 +29,8 @@ CSV.foreach("daily_show_guests.csv") do |row|
 end
 
 
- full = DB[:conn].execute( "SELECT year, type, COUNT(type) FROM guests 
-GROUP BY type ORDER BY year DESC, COUNT(type) DESC" ) 
- puts full
+ full = DB[:conn].execute( "SELECT DISTINCT name FROM guests 
+WHERE name LIKE 'Bill%'")
+ 
+
+puts full
